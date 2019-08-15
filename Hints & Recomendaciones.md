@@ -9,8 +9,8 @@ Requisito o no, y por qué: El sistema será fácil de usuario a los empleados d
 Ojo cuando hay dos requisitos juntos
 
 ### Proyecto
-[Draw.io](https://www.draw.io/) nos puede ayudar a ver los diagramas de caso de uso
-usar *usuarios predeterminados* de django
+[Draw.io](https://www.draw.io/) nos puede ayudar a ver los diagramas de caso de uso <br>
+**Django** usar *usuarios predeterminados*
 
 ## Preguntas de controles anteriores:
 ### Requisitos
