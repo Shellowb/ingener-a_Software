@@ -2,7 +2,9 @@
 
 ## Hints
 ### Materia
-El hint del **objetivo de negocio:** que  es lo que quiere el cliente con el negocio <br>
+#### Objetivos
+El hint del **objetivo de negocio:** que  es lo que quiere el cliente con el negocio
+#### Requisitos
 Requisito o no, y por qué: El sistema será fácil de usuario a los empleados después de un entrenamiento <br>
 Ojo cuando hay dos requisitos juntos
 
