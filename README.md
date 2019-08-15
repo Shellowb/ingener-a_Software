@@ -1,4 +1,4 @@
-# ingener-a_Software
+# ingenieria_de_Software
 En este repositorio hay algunos materiales que podrían ser de utilidad para los alumnos del ramo. Entre ellos tips, y recomendaciones, sobre la materia.
 hasta ahora se han agregado:
 
