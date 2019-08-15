@@ -2,8 +2,8 @@
 
 ## Hints
 ### Materia
-El hint del **objetivo de negocio:** que  es lo que quiere el cliente con el negocio
-Requisito o no, y por qué: El sistema será fácil de usuario a los empleados después de un entrenamiento
+El hint del **objetivo de negocio:** que  es lo que quiere el cliente con el negocio <br>
+Requisito o no, y por qué: El sistema será fácil de usuario a los empleados después de un entrenamiento <br>
 Ojo cuando hay dos requisitos juntos
 
 ### Proyecto
